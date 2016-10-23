@@ -12,6 +12,8 @@ Recipeあり
 * [鳥団子鍋](http://cookpad.com/recipe/2865781)
 * [とんかつ](http://cookpad.com/recipe/3777460)
 * [あじのムニエル](http://www.kyounoryouri.jp/recipe/3748_%E3%81%82%E3%81%98%E3%81%AE%E3%83%A0%E3%83%8B%E3%82%A8%E3%83%AB.html)
+* [肉じゃが](http://cookpad.com/recipe/1519259)
+
 
 Recipeなし
 ----
@@ -25,7 +27,6 @@ Recipeなし
 * 焼き魚
 * グラタン
 * やきそば
-* 肉じゃが
 * シチュー
 * 親子丼
 * 中華丼
