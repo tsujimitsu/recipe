@@ -4,7 +4,7 @@ Recipe
 Recipeあり
 ----
 * [大根とこんにゃくの煮物](http://recipe.rakuten.co.jp/recipe/1320000884/)
-* [ぶり大根](http://reipe.rakuten.co.jp/recipe/1620000377/)
+* ぶり大根
 * [カルボナーラ](https://www.hotpepper.jp/mesitsu/entry/20160714/1468447200)
 * [餃子](http://recipe.rakuten.co.jp/recipe/1890007735/)
 * [ハンバーグ](http://momonestyle.com/simple-and-delicious-hamburger-recipe-of)
